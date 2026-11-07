@@ -1,0 +1,15 @@
+.hero-container {
+    display: flex;
+    align-items: center;     /* vertically align items */
+    justify-content: space-between;
+    gap: 2rem;
+}
+
+.hero-content {
+    flex: 1;
+}
+
+.home-logo {
+    width: 300px;            /* adjust as needed */
+    height: auto;
+}

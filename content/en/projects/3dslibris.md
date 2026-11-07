@@ -1,5 +1,5 @@
 ---
-title: "3dsLibris"
+title: "test"
 date: 2026-05-01
 description: "A homebrew ebook reader for Nintendo 3DS focused on reflowable and fixed-layout formats."
 icon: "fa-solid fa-book-open-reader"

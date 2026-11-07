@@ -1,7 +1,6 @@
-baseURL = "https://example.org/"
+baseURL = "https://rguhack.uk"
 title = "RGUHack27"
 theme = "rewired"
-
 defaultContentLanguage = "en"
 
 [taxonomies]
@@ -13,7 +12,7 @@ blogPageSize = 5
 
 [params.toc]
 enabled = true
-ordered = true
+ordered = false
 startLevel = 1
 endLevel = 3
 
@@ -21,22 +20,21 @@ endLevel = 3
 
 [languages.en]
 label = "English"
-locale = "en-US"
+locale = "en-GB"
 weight = 2
 contentDir = "content/en"
 title = "RGUHack27"
 
 [languages.en.params]
-author = "Your name"
+author = "The North of Scotlands Flagship Hackathon"
 descriptionLines = [
-  "A short description of your website,",
-  "your work, projects, or interests.",
+  "",
 ]
-tagline = "I write on the [blog](/en/posts/), share [projects](/en/projects/), and send a [newsletter](/en/newsletter/)."
+tagline = "RGUHack is an annual 24-hour hackathon where students from across the UK come together to build incredible projects."
 
 [languages.en.params.footer]
-text = 'mywebsite.dev // made with ♥ and [Hugo](https://gohugo.io/) // theme [rewired](https://github.com/RigleGit/rewired)'
-prompt = "user@mywebsite.dev:~$"
+text = 'rguhack.uk // made with [Hugo](https://gohugo.io/) && [Rewired](https://github.com/RigleGit/rewired) // hosted by [Aberhosting](https://aberhosted.co.uk)'
+prompt = "hack@rgucompsoc:~$"
 
 [[languages.en.menus.main]]
 name = "home"
@@ -44,12 +42,12 @@ pageRef = "/"
 weight = 10
 
 [[languages.en.menus.main]]
-name = "blog"
+name = "posts"
 pageRef = "/posts"
 weight = 20
 
 [[languages.en.menus.main]]
-name = "projects"
+name = "sponsors"
 pageRef = "/projects"
 weight = 30
 
@@ -65,22 +63,18 @@ weight = 50
 
 [[languages.en.params.social]]
 name = "GitHub"
-url = "https://github.com/user"
+url = "https://github.com/rguhack"
 icon = "fa-brands fa-github"
 
 [[languages.en.params.social]]
-name = "YouTube"
-url = "https://youtube.com/@user"
-icon = "fa-brands fa-youtube"
+name = "Instagram"
+url = "https://instagram.com/rgucompsoc"
+icon = "fa-brands fa-instagram"
 
-[[languages.en.params.social]]
-name = "Newsletter"
-url = "https://example.org/newsletter/"
-icon = "fa-solid fa-newspaper"
 
 [[languages.en.params.social]]
 name = "Email"
-url = "mailto:hello@example.org"
+url = "mailto:RGUHack@rgu.ac.uk"
 icon = "fa-regular fa-envelope"
 
 [[languages.en.params.subnodes]]

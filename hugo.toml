@@ -48,7 +48,7 @@ weight = 20
 
 [[languages.en.menus.main]]
 name = "sponsors"
-pageRef = "/projects"
+pageRef = "/sponsors"
 weight = 30
 
 [[languages.en.menus.main]]
@@ -86,3 +86,8 @@ description = "Documentation, notes, or technical resources."
 name = "lab.example.org"
 url = "https://lab.example.org"
 description = "Experiments, prototypes, and side projects."
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

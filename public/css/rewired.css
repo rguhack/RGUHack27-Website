@@ -332,6 +332,52 @@ img {
     grid-row: 1 / span 2;
   }
 }
+.hero-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+}
+.hero-content {
+  flex: 1;
+}
+.home-logo {
+  width: 300px;
+  height: auto;
+}
+.countdown {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+  padding: 1.5rem;
+  margin: 1rem 0;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid #D9577B;
+  border-radius: 16px;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(20px);
+}
+.countdown-item {
+  text-align: center;
+  min-width: 90px;
+}
+.countdown-value {
+  display: block;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1;
+  color: var(--primary, #00DFA7);
+}
+.countdown-label {
+  display: block;
+  margin-top: 0.4rem;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  opacity: 0.7;
+  color: var(--primary, #FFFFFF);
+}
 .site-footer {
   display: flex;
   justify-content: space-between;

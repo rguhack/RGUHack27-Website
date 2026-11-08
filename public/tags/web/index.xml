@@ -5,7 +5,7 @@
 		<link>http://localhost:1313/tags/web/</link>
 		<description>Recent content in Web on RGUHack27</description>
 		<generator>Hugo</generator>
-		<language>en-US</language>
+		<language>en-GB</language>
 		
 		
 		
@@ -14,10 +14,10 @@
 		
 			<atom:link href="http://localhost:1313/tags/web/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>Rewired</title>
-				<link>http://localhost:1313/projects/rewired/</link>
+				<title>Getting Here</title>
+				<link>http://localhost:1313/projects/gettinghere/</link>
 				<pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/projects/rewired/</guid>
+				<guid>http://localhost:1313/projects/gettinghere/</guid>
 				<description>&lt;p&gt;Sample project used to test the projects page.&lt;/p&gt;</description>
 			</item>
 	</channel>

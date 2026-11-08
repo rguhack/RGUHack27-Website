@@ -34,6 +34,8 @@
 	</p>
 </section>
 
+
+
 {{ with site.Params.social }}
 	<section class="home-social" aria-label="Social links">
 		{{ range . }}
@@ -50,6 +52,10 @@
 		{{ end }}
 	</section>
 {{ end }}
+
+<section class="home-section" aria-labelledby="countdown">
+{{ partial "countdown.html" "2027-03-06T10:00:00Z" }}
+</section>
 
 <section class="home-section home-projects" aria-labelledby="projects-title">
 	<h2 id="projects-title" class="section-title">{{ i18n "projects" }}</h2>

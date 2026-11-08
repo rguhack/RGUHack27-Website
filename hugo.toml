@@ -78,14 +78,14 @@ url = "mailto:RGUHack@rgu.ac.uk"
 icon = "fa-regular fa-envelope"
 
 [[languages.en.params.subnodes]]
-name = "docs.example.org"
-url = "https://docs.example.org"
-description = "Documentation, notes, or technical resources."
+name = "Github"
+url = "https://github.com/rguhack/RGUHack27"
+description = "The Official Repo for the event"
 
 [[languages.en.params.subnodes]]
-name = "lab.example.org"
+name = "Eventbrite"
 url = "https://lab.example.org"
-description = "Experiments, prototypes, and side projects."
+description = "Register to attend here"
 
 [markup]
   [markup.goldmark]

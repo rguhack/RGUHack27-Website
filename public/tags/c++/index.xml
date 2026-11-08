@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>C&#43;&#43; on RGUHack27</title>
+		<link>https://rguhack.uk/tags/c&#43;&#43;/</link>
+		<description>Recent content in C&#43;&#43; on RGUHack27</description>
+		<generator>Hugo</generator>
+		<language>en-GB</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 07 Nov 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://rguhack.uk/tags/c++/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>What is RGUHack?</title>
+				<link>https://rguhack.uk/projects/whatisrguhack-about/</link>
+				<pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
+				<guid>https://rguhack.uk/projects/whatisrguhack-about/</guid>
+				<description>&lt;!-- This should never render as it redirects to about.md --&gt;</description>
+			</item>
+	</channel>
+</rss>

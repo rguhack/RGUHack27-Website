@@ -14,7 +14,7 @@ How long running what its mission is etc (get John to write?)
 
 
 # Why Participate?
-
+Talk about experience, networking, food etc.
 # The Team
 
 **RGUHack** wouldn't be possible without the dedicated team from RGU Computing Society and RGU School of Computing Engineering & Technology (SoCET)

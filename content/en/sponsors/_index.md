@@ -5,7 +5,7 @@ description: "The generosity of our sponsors it what keeps this event running"
 # Interested in sponsoring RGUHack? 
 ## Email [RGUHack@rgu.ac.uk](mailto:RGUHack@rgu.ac.uk)
 
-# Gold Sponsors
+<!-- # Gold Sponsors
 
 ----
 # Silver Sponsors
@@ -15,7 +15,6 @@ description: "The generosity of our sponsors it what keeps this event running"
 
 ----
 # Connectivity Sponsor
-### Converged?
 ----
 # Collaborations
-### RGU Marketing
+### RGU Marketing -->

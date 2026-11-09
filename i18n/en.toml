@@ -4,6 +4,9 @@ other = "important links"
 [latest_posts]
 other = "latest posts"
 
+[testimonials]
+other = "What others are saying"
+
 [projects]
 other = "Event info"
 

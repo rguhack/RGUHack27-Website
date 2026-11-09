@@ -49,5 +49,5 @@ Talk about experience, networking, food etc.
 >[Profile:]\
 >[Names: Ross McLean]\
 >[Real Job: Lecturer ]\
->[Hack Position: Good Vibe Bringer]\
+>[Hack Position: Vibe Bringer]\
 >[Interests: -- ]\

@@ -3,24 +3,24 @@ title: "About"
 description: "Find out all you need to know about the hack"
 ---
 
-## About The Hack
-RGUHack is the North of scotlands largest student lead Hackathon.\
-Every year 250-300 participants join us in the Sir Ian Wood Building for 24hrs of Coding, Workshops, Industry Networking and Pizza (of course!)
+## About the hack
+RGUHack is the North of Scotland's largest student-lead hackathon.\
+Every year 250-300 participants join us in the Sir Ian Wood Building for 24 hours of coding, workshops, industry networking and pizza (of course!).
 
 
-## Why Participate?
-RGUHack is a amazing opportunity to network with local industry leaders and fellow tech enthusiasts.
+## Why participate?
+RGUHack is an amazing opportunity to network with local industry leaders and fellow tech enthusiasts.
 
 What you will take from the hack:
-- A prototype project solving a real industry problem set by our sponsors
+- A prototype project solving a real industry problem set by our sponsors.
 - Connections with fellow students and industry professionals.
-- Lots of Swag (t-shirt, notebooks, sweets etc...)
+- Lots of swag (T-shirts, notebooks, sweets etc...).
 
-### But what if I cant code?
-No Worries! A winning RGUHack team needs Designers, Presenters and Visionaries just as much as coders. Bring your skills whatever they are!
+### But what if I can't code?
+No worries! A winning RGUHack team needs designers, presenters and visionaries just as much as coders. Bring your skills, whatever they are!
 
-# Our Team
-**RGUHack** wouldn't be possible without the dedicated team from RGU Computing Society and RGU School of Computing Engineering & Technology (SoCET)
+## Our team
+**RGUHack** wouldn't be possible without the dedicated team from RGU Computing Society and RGU School of Computing, Engineering & Technology (SoCET).
 
 
 
@@ -67,7 +67,7 @@ No Worries! A winning RGUHack team needs Designers, Presenters and Visionaries j
 >[Name: [Janusz Krakowiak](https://www.linkedin.com/in/janusz-k-0a8b44365/)]\
 
 ### Are you a student at RGU and interested in getting involved with the committee next year?
-We'd love to hear from you... drop us a email [compsoc@rguunion.co.uk](mailto:compsoc@rguunion.co.uk)
+We'd love to hear from you... drop us an email [compsoc@rguunion.co.uk](mailto:compsoc@rguunion.co.uk)
 <!-- #### socet@rguhack:~$ getent group .
 
 >[Profile:]\

@@ -26,7 +26,7 @@ contentDir = "content/en"
 title = "RGUHack27"
 
 [languages.en.params]
-author = "The North of Scotlands Flagship Hackathon"
+author = "The North of Scotland's Flagship Hackathon"
 descriptionLines = [
   "",
 ]

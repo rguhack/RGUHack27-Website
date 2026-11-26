@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Teams on RGUHack27</title><link>https://rguhack.uk/tags/teams/</link><description>Recent content in Teams on RGUHack27</description><generator>Hugo</generator><language>en-GB</language><lastBuildDate>Tue, 10 Nov 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://rguhack.uk/tags/teams/index.xml" rel="self" type="application/rss+xml"/><item><title>Hacker, Hipster, Hustler - which are you?</title><link>https://rguhack.uk/posts/hackerhipsterhustler/</link><pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate><guid>https://rguhack.uk/posts/hackerhipsterhustler/</guid><description>&lt;h1 id="theres-a-role-for-everyone-at-rguhack"&gt;Theres a role for everyone at RGUHack&lt;/h1&gt;&#10;&lt;h2 id="the-hacker"&gt;The Hacker&lt;/h2&gt;&#10;&lt;p&gt;Do you love working with new tools and frameworks? Wanting to code right away? You will be responsible for turning dreams and wireframes into apps and websites, no matter how many bugs you encounter. Making sure that the team vision is materialised and (hopefully) running.&lt;/p&gt;&#10;&lt;h2 id="the-hipster"&gt;The Hipster&lt;/h2&gt;&#10;&lt;p&gt;Happen to find yourself looking at resolution of a logo or figuring out the font of a cafe menu for too long? You will make sure that whatever the team makes; looks, feels and sounds as awesome as possible with your artistic touch. Give that much-needed WOW factor to it all.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Teams on RGUHack27</title>
+		<link>http://localhost:1313/tags/teams/</link>
+		<description>Recent content in Teams on RGUHack27</description>
+		<generator>Hugo</generator>
+		<language>en-GB</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 10 Nov 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/teams/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Hacker, Hipster, Hustler - which are you?</title>
+				<link>http://localhost:1313/posts/hackerhipsterhustler/</link>
+				<pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/hackerhipsterhustler/</guid>
+				<description>&lt;h2 id=&#34;theres-a-role-for-everyone-at-rguhack&#34;&gt;There&amp;rsquo;s a role for everyone at RGUHack&lt;/h2&gt;&#xA;&lt;h3 id=&#34;the-hacker&#34;&gt;The Hacker&lt;/h3&gt;&#xA;&lt;p&gt;Do you love working with new tools and frameworks? Wanting to code right away? You will be responsible for turning dreams and wireframes into apps and websites, no matter how many bugs you encounter, making sure that the team vision is materialised and (hopefully) running.&lt;/p&gt;&#xA;&lt;h3 id=&#34;the-hipster&#34;&gt;The Hipster&lt;/h3&gt;&#xA;&lt;p&gt;Happen to find yourself looking at the resolution of a logo or figuring out the font of a cafe menu for too long? You will make sure that whatever the team makes looks, feels and sounds as awesome as possible with your artistic touch. Give that much-needed WOW factor to it all.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

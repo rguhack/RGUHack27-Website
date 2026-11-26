@@ -1,1 +1,59 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on RGUHack27</title><link>https://rguhack.uk/</link><description>Recent content in Home on RGUHack27</description><generator>Hugo</generator><language>en-GB</language><lastBuildDate>Tue, 10 Nov 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://rguhack.uk/index.xml" rel="self" type="application/rss+xml"/><item><title>Hacker, Hipster, Hustler - which are you?</title><link>https://rguhack.uk/posts/hackerhipsterhustler/</link><pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate><guid>https://rguhack.uk/posts/hackerhipsterhustler/</guid><description>&lt;h1 id="theres-a-role-for-everyone-at-rguhack"&gt;Theres a role for everyone at RGUHack&lt;/h1&gt;&#10;&lt;h2 id="the-hacker"&gt;The Hacker&lt;/h2&gt;&#10;&lt;p&gt;Do you love working with new tools and frameworks? Wanting to code right away? You will be responsible for turning dreams and wireframes into apps and websites, no matter how many bugs you encounter. Making sure that the team vision is materialised and (hopefully) running.&lt;/p&gt;&#10;&lt;h2 id="the-hipster"&gt;The Hipster&lt;/h2&gt;&#10;&lt;p&gt;Happen to find yourself looking at resolution of a logo or figuring out the font of a cafe menu for too long? You will make sure that whatever the team makes; looks, feels and sounds as awesome as possible with your artistic touch. Give that much-needed WOW factor to it all.&lt;/p&gt;</description></item><item><title>Hello World</title><link>https://rguhack.uk/posts/hello-world/</link><pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate><guid>https://rguhack.uk/posts/hello-world/</guid><description>&lt;p&gt;🎉 Woohoo the site works&lt;/p&gt;&#10;&lt;img width="200px" height="200px" src="https://rguhack.uk/mrbeanhelloworld.gif"&gt;</description></item><item><title>The Ultimate Hack List: Must Have Items at RGU Hack</title><link>https://rguhack.uk/posts/kit-list/</link><pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate><guid>https://rguhack.uk/posts/kit-list/</guid><description>&lt;p&gt;Packing for a hackathon can be a confusing ordeal, especially if it is your first one. Do you bring a change of outfit?, a game to play for chill time?, snacks to get you through it? It can be an overwhelming experience.&#10;Not sure where to start? Don&amp;rsquo;t worry we have you covered. Check out the list below for must have items people always forget to improve your hack experience!&lt;/p&gt;</description></item><item><title>What is RGUHack?</title><link>https://rguhack.uk/projects/whatisrguhack-about/</link><pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate><guid>https://rguhack.uk/projects/whatisrguhack-about/</guid><description>&lt;!-- This should never render as it redirects to about.md --&gt;</description></item><item><title>Find Your Role</title><link>https://rguhack.uk/projects/hackerhipsterhustler/</link><pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate><guid>https://rguhack.uk/projects/hackerhipsterhustler/</guid><description>&lt;!-- This should never render as it redirects to about.md --&gt;</description></item><item><title>Getting Here</title><link>https://rguhack.uk/projects/gettinghere/</link><pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate><guid>https://rguhack.uk/projects/gettinghere/</guid><description>&lt;h3 id="rguhack-is-held-in-the-sir-ian-wood-building-on-the-rgu-garthdee-campus-in-aberdeen"&gt;RGUHack is held in the Sir Ian Wood Building on the RGU Garthdee Campus in Aberdeen&lt;/h3&gt;&#10;&lt;blockquote&gt;&#10;&lt;p&gt;The Sir Ian Wood Building,&#10;Robert Gordon University,&#10;Garthdee Rd,&#10;Aberdeen AB10 7GJ&lt;/p&gt;&#10;&lt;/blockquote&gt;&#10;&lt;p&gt;Getting to the campus is easy, either using the No. 1 or 2 Bus routes from Union St which is a 5-10 min walk from Aberdeen Train and Bus Station&lt;/p&gt;&#10;&lt;h3 id="what-do-i-need-to-bring"&gt;What do I need to bring?&lt;/h3&gt;&#10;&lt;p&gt;Our Comms &amp;amp; Engagement Lead Abigail has put together a list of essentials for the hack. Check it out &lt;a href="https://rguhack.uk/posts/kit-list/"&gt;here&lt;/a&gt;&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Home on RGUHack27</title>
+		<link>http://localhost:1313/</link>
+		<description>Recent content in Home on RGUHack27</description>
+		<generator>Hugo</generator>
+		<language>en-GB</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 10 Nov 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Hacker, Hipster, Hustler - which are you?</title>
+				<link>http://localhost:1313/posts/hackerhipsterhustler/</link>
+				<pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/hackerhipsterhustler/</guid>
+				<description>&lt;h2 id=&#34;theres-a-role-for-everyone-at-rguhack&#34;&gt;There&amp;rsquo;s a role for everyone at RGUHack&lt;/h2&gt;&#xA;&lt;h3 id=&#34;the-hacker&#34;&gt;The Hacker&lt;/h3&gt;&#xA;&lt;p&gt;Do you love working with new tools and frameworks? Wanting to code right away? You will be responsible for turning dreams and wireframes into apps and websites, no matter how many bugs you encounter, making sure that the team vision is materialised and (hopefully) running.&lt;/p&gt;&#xA;&lt;h3 id=&#34;the-hipster&#34;&gt;The Hipster&lt;/h3&gt;&#xA;&lt;p&gt;Happen to find yourself looking at the resolution of a logo or figuring out the font of a cafe menu for too long? You will make sure that whatever the team makes looks, feels and sounds as awesome as possible with your artistic touch. Give that much-needed WOW factor to it all.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Hello World</title>
+				<link>http://localhost:1313/posts/hello-world/</link>
+				<pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/hello-world/</guid>
+				<description>&lt;p&gt;🎉 Woohoo the site works&lt;/p&gt;&#xA;&lt;img width=&#34;200px&#34; height=&#34;200px&#34; src=&#34;http://localhost:1313/mrbeanhelloworld.gif&#34;&gt;</description>
+			</item>
+			<item>
+				<title>The Ultimate Hack List: Must-Have Items at RGUHack</title>
+				<link>http://localhost:1313/posts/kit-list/</link>
+				<pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/kit-list/</guid>
+				<description>&lt;p&gt;Packing for a hackathon can be a confusing ordeal, especially if it is your first one. Do you bring a change of outfit? A game to play for chill time? Snacks to get you through it? It can be an overwhelming experience.&#xA;Not sure where to start? Don&amp;rsquo;t worry, we have you covered. Check out the list below for must-have items people always forget to improve your hack experience!&lt;/p&gt;&#xA;&lt;h2 id=&#34;basic-hygiene-items&#34;&gt;Basic Hygiene Items&lt;/h2&gt;&#xA;&lt;h3 id=&#34;toothbrushtoothpaste-deodorant-painkillers-and-lots-of-water&#34;&gt;Toothbrush/toothpaste, deodorant, painkillers and lots of water!&lt;/h3&gt;&#xA;&lt;p&gt;Every morning of an RGU Hackathon there is a scamble (even within the committee!) to find the legendary few that remembered to bring deodorant and toothpaste.&lt;br&gt;&#xA;When you pitch your ideas at the end of the event you want to feel clean and refreshed, and these items go a long way in boosting your confidence.&lt;br&gt;&#xA;Headaches and pains are often common, so please also remember a water bottle and some painkillers (and to occasionally look away from your screens) to help prevent yourself from feeling unwell.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>What is RGUHack?</title>
+				<link>http://localhost:1313/projects/whatisrguhack-about/</link>
+				<pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/projects/whatisrguhack-about/</guid>
+				<description>&lt;!-- This should never render as it redirects to about.md --&gt;</description>
+			</item>
+			<item>
+				<title>Find Your Role</title>
+				<link>http://localhost:1313/projects/hackerhipsterhustler/</link>
+				<pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/projects/hackerhipsterhustler/</guid>
+				<description>&lt;!-- This should never render as it redirects to about.md --&gt;</description>
+			</item>
+			<item>
+				<title>Getting Here</title>
+				<link>http://localhost:1313/projects/gettinghere/</link>
+				<pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/projects/gettinghere/</guid>
+				<description>&lt;h3 id=&#34;rguhack-is-held-in-the-sir-ian-wood-building-on-the-rgu-garthdee-campus-in-aberdeen&#34;&gt;RGUHack is held in the Sir Ian Wood Building on the RGU Garthdee Campus in Aberdeen&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;The Sir Ian Wood Building,&#xA;Robert Gordon University,&#xA;Garthdee Rd,&#xA;Aberdeen AB10 7GJ&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Getting to the campus is easy, either using the No. 1 or 2 Bus routes from Union St. which is a 5-10 min walk from Aberdeen train and bus station.&lt;/p&gt;&#xA;&lt;h3 id=&#34;what-do-i-need-to-bring&#34;&gt;What do I need to bring?&lt;/h3&gt;&#xA;&lt;p&gt;Our Comms &amp;amp; Engagement Lead, Abigail, has put together a list of essentials for the hack. Check it out &lt;a href=&#34;http://localhost:1313/posts/kit-list/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

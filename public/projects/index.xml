@@ -1,1 +1,38 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Event Info on RGUHack27</title><link>https://rguhack.uk/projects/</link><description>Recent content in Event Info on RGUHack27</description><generator>Hugo</generator><language>en-GB</language><lastBuildDate>Sat, 07 Nov 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://rguhack.uk/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>What is RGUHack?</title><link>https://rguhack.uk/projects/whatisrguhack-about/</link><pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate><guid>https://rguhack.uk/projects/whatisrguhack-about/</guid><description>&lt;!-- This should never render as it redirects to about.md --&gt;</description></item><item><title>Find Your Role</title><link>https://rguhack.uk/projects/hackerhipsterhustler/</link><pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate><guid>https://rguhack.uk/projects/hackerhipsterhustler/</guid><description>&lt;!-- This should never render as it redirects to about.md --&gt;</description></item><item><title>Getting Here</title><link>https://rguhack.uk/projects/gettinghere/</link><pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate><guid>https://rguhack.uk/projects/gettinghere/</guid><description>&lt;h3 id="rguhack-is-held-in-the-sir-ian-wood-building-on-the-rgu-garthdee-campus-in-aberdeen"&gt;RGUHack is held in the Sir Ian Wood Building on the RGU Garthdee Campus in Aberdeen&lt;/h3&gt;&#10;&lt;blockquote&gt;&#10;&lt;p&gt;The Sir Ian Wood Building,&#10;Robert Gordon University,&#10;Garthdee Rd,&#10;Aberdeen AB10 7GJ&lt;/p&gt;&#10;&lt;/blockquote&gt;&#10;&lt;p&gt;Getting to the campus is easy, either using the No. 1 or 2 Bus routes from Union St which is a 5-10 min walk from Aberdeen Train and Bus Station&lt;/p&gt;&#10;&lt;h3 id="what-do-i-need-to-bring"&gt;What do I need to bring?&lt;/h3&gt;&#10;&lt;p&gt;Our Comms &amp;amp; Engagement Lead Abigail has put together a list of essentials for the hack. Check it out &lt;a href="https://rguhack.uk/posts/kit-list/"&gt;here&lt;/a&gt;&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Event Info on RGUHack27</title>
+		<link>http://localhost:1313/projects/</link>
+		<description>Recent content in Event Info on RGUHack27</description>
+		<generator>Hugo</generator>
+		<language>en-GB</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 07 Nov 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>What is RGUHack?</title>
+				<link>http://localhost:1313/projects/whatisrguhack-about/</link>
+				<pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/projects/whatisrguhack-about/</guid>
+				<description>&lt;!-- This should never render as it redirects to about.md --&gt;</description>
+			</item>
+			<item>
+				<title>Find Your Role</title>
+				<link>http://localhost:1313/projects/hackerhipsterhustler/</link>
+				<pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/projects/hackerhipsterhustler/</guid>
+				<description>&lt;!-- This should never render as it redirects to about.md --&gt;</description>
+			</item>
+			<item>
+				<title>Getting Here</title>
+				<link>http://localhost:1313/projects/gettinghere/</link>
+				<pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/projects/gettinghere/</guid>
+				<description>&lt;h3 id=&#34;rguhack-is-held-in-the-sir-ian-wood-building-on-the-rgu-garthdee-campus-in-aberdeen&#34;&gt;RGUHack is held in the Sir Ian Wood Building on the RGU Garthdee Campus in Aberdeen&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;The Sir Ian Wood Building,&#xA;Robert Gordon University,&#xA;Garthdee Rd,&#xA;Aberdeen AB10 7GJ&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Getting to the campus is easy, either using the No. 1 or 2 Bus routes from Union St. which is a 5-10 min walk from Aberdeen train and bus station.&lt;/p&gt;&#xA;&lt;h3 id=&#34;what-do-i-need-to-bring&#34;&gt;What do I need to bring?&lt;/h3&gt;&#xA;&lt;p&gt;Our Comms &amp;amp; Engagement Lead, Abigail, has put together a list of essentials for the hack. Check it out &lt;a href=&#34;http://localhost:1313/posts/kit-list/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

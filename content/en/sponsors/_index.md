@@ -16,7 +16,7 @@ description: "The generosity of our sponsors it what keeps this event running"
 - Short introdution speech as introduction presentation
 - all bronze perks
 
-## - All Sponsors:
+## - Bronze Sponsors:
 - Opportunities to connect with future talent from within the University and beyond
 - Extensive recognition and branding before, during and after the event
 - Social media promotions, event announcements, verbal mentions
